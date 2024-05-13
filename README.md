@@ -14,7 +14,7 @@ A Listagem de Pokémons é uma aplicação web que tem como objetivo fornecer in
 
 ## Como Usar
 
-1. Abra o navegador web e acesse o seguinte link: [Listagem de Pokémons](https://exemplo.com/listagem-pokemons).
+1. Abra o navegador web e acesse o seguinte link: https://github.com/guilherme-silvam/listagem-pokemon.git.
 2. Na página inicial, você verá uma lista de Pokémons com suas respectivas imagens e nomes.
 3. Clique em um Pokémon para visualizar informações detalhadas sobre ele, incluindo tipo, habilidades e estatísticas.
 
