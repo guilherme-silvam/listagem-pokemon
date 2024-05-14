@@ -1,4 +1,4 @@
-# Listagem de Pokémons
+# Listagem de Pokémons 🔥🌱🌊
 
 Este é um projeto de listagem de Pokémons desenvolvido utilizando HTML, CSS e JavaScript. Ele permite visualizar uma lista de Pokémons e obter informações detalhadas sobre cada um deles.
 
@@ -34,7 +34,13 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça push para a branch (`git push origin feature/nova-funcionalidade`).
 5. Abra um Pull Request.
 
-## Autor
+## Visualização
 
-Guilherme Machado
+Aqui está uma prévia de como o site aparece(Clique na imagem caso queira acessar o site)
+[<img src="./src/imagens/tela.png">](https://guilherme-silvam.github.io/listagem-pokemon/
+)
 
+## Contato
+
+- E-mail: guisilvam19@gmail.com ou  guilhermemachado019@gmail.com
+- Projeto Link: https://guilherme-silvam.github.io/listagem-pokemon/
